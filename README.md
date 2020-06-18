@@ -1,4 +1,4 @@
-# DataAnalysisJavaBook
+# Data Analysis Java Book
 
 Data Analysis Using Java by Faculty of Computer Sciecne and Information Technology, Universiti Tun Hussein Onn Malaysia.
 
