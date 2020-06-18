@@ -12,9 +12,9 @@ Data Analysis Using Java by Faculty of Computer Sciecne and Information Technolo
 #### Steps 
   <p>Clone the Project to directory whose path doesn't contain blank spaces.</p>
 1. clone the javabook repository on your computer.<br/>
-     `git clone https://github.com/uMklami/DataAnalysisJavaBook.git`<br/>
+     `git clone https://github.com/FSKTM-UTHM/DataAnalysisJavaBook.git`<br/>
 2. OR, Download from the following link. <br/>
-   `https://github.com/uMklami/DataAnalysisJavaBook`
+   `https://github.com/FSKTM-UTHM/DataAnalysisJavaBook`
    </br>
 
 # Importing project to Eclipse
