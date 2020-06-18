@@ -17,7 +17,7 @@ Data Analysis Using Java by Faculty of Computer Sciecne and Information Technolo
    `https://github.com/uMklami/DataAnalysisJavaBook`
    </br>
 
-# Importing to Eclipse
+# Importing project to Eclipse
 
 #### Steps 
 1. Open Eclipse
@@ -28,3 +28,16 @@ Data Analysis Using Java by Faculty of Computer Sciecne and Information Technolo
 5. Navigate to the downloaded project folder. Select the project folder and click ‘Open’.
 6. In the ‘Import Projects’ dialog, ensure that browsed path is displayed and click ‘Finish’.
 7. Ensure that the imported project is displayed in the Eclipse IDE
+
+
+# Importing jar file in your Eclipse IDE.
+
+#### Steps
+1. Right click on your project
+2. Select Build Path
+3. Click on Configure Build Path
+4. Click on Libraries and select Add External JARs
+5. Select the jar file from the required folder
+6. Click and Apply and Ok
+
+<p> The deatailed description with screenshots of importing jar files has been given in Section 6.2, Chapter 6. </p>
