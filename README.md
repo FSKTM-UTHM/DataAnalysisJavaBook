@@ -6,7 +6,7 @@ Data Analysis Using Java by Faculty of Computer Sciecne and Information Technolo
 # Building the Project:
 
 #### Prerequisits: 
-  * Java 8 <br>
+  * Java 8 (or above) <br>
   * Git (Optional)<br>
 
 #### Steps 
